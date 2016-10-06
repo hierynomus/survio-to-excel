@@ -1,0 +1,8 @@
+*.xlsx
+*.json
+.Python
+bin/
+include/
+lib/
+*.pyc
+*.pyo
